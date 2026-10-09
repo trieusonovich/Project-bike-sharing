@@ -77,3 +77,9 @@ Note: the full grid contains 288 parameter combinations × 4 folds and `criterio
 ## Tech Stack
 
 Python · pandas · scikit-learn · feature-engine · Matplotlib · ydata-profiling
+
+## Author
+
+Nguyen Dinh Trieu
+
+Gmail: trieu31072004@gmail.com
